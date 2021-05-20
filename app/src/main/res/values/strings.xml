@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="whipped_cream">WHIPPED CREAM</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="Chocolate">chocolate</string>
+</resources>
